@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x78611Cd344A3C04f71B1C35E2d1D7111acd55F19",
+  "SCAN_LINK": "https://polygonscan.com/address/0x78611Cd344A3C04f71B1C35E2d1D7111acd55F19",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Venom Club",
+  "SYMBOL": "VC",
+  "MAX_SUPPLY": 7777,
+  "WEI_COST": 3000000000000000000,
+  "DISPLAY_COST": 3,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/venomclub",
+  "SHOW_BACKGROUND": true
+}
